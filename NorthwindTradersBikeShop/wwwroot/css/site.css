@@ -1,0 +1,25 @@
+﻿h1 {
+    text-align: center;
+    font-size: 6em;
+}
+
+div.row {
+    height: 200px;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    margin: 0 20px;
+    vertical-align: middle;
+}
+
+div.row p {
+/*    float: left;*/    
+    display: inline-block;
+    line-height: 200px;
+}
+
+.brand {
+    font-size: 2em;
+}
